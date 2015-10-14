@@ -48,7 +48,7 @@ npm start
 This will start a webserver for you at `http://localhost:8008`, and run a `watch` process so that your front-end assets will be regenerated as you make changes.
 
 ### Alternatives 
-You may use a cloud based development platform such as Koding.com. It can be directly linked to your GitHub account.
+
 
 
 
